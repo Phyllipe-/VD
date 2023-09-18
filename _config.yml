@@ -21,7 +21,7 @@
 title: Visualização de Dados - MDCC
 email: phyllipe@alu.ufc.br
 description: >- # this means to ignore newlines until "baseurl:"
-ATIVIDADES RELACIONADAS À DISCIPLINA DE VISUALIZAÇÃO DE DADOS
+
 baseurl: "/vd" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
